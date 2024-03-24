@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dean.apihomemarketplace">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/houseicon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.APIHomeMarketPlace"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".activity.ConsultingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.LoanActivity"
+            android:exported="false"
+            />
+        <activity
+            android:name=".activity.KeamananActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.ManageBudgeting"
+            android:exported="false" />
+        <activity
+            android:name=".activity.CommunityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.FinanceActivity"
+            android:exported="false" />
+        <activity
+
+
+            android:name=".activity.SplashScreenActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- <activity -->
+        <!-- android:name=".activity.DebtItemDataActivity" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".fragment.L" -->
+        <!-- android:exported="false" /> -->
+        <activity
+            android:name=".activity.DebtItemDataActivity"
+            android:exported="false"
+            android:label="@string/title_activity_debt_data_item"
+            android:theme="@style/Theme.APIHomeMarketPlace" />
+        <activity android:name=".activity.SignInActivity" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/app_name" />
+    </application>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

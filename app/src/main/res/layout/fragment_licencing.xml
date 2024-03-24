@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.LicencingFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginStart="@dimen/_10dp"
+        android:layout_marginEnd="@dimen/_10dp"
+        android:layout_marginBottom="@dimen/_15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_medium"
+            android:gravity="center_horizontal"
+            android:text="Licencing"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="21dp" />
+
+        <ImageView
+            android:id="@+id/iv_back_licencing"
+            android:layout_width="@dimen/_30dp"
+            android:layout_height="@dimen/_30dp"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/btn_round"
+            android:padding="@dimen/_5dp"
+            android:src="@drawable/backk"
+            app:tint="@color/white" />
+
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/btn_security"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginStart="@dimen/_15dp"
+        android:layout_marginEnd="@dimen/_15dp"
+        android:background="@drawable/btn_round"
+        android:text="Security Clearance"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+
+    <Button
+        android:id="@+id/btn_capital"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="@dimen/_15dp"
+        android:layout_marginEnd="@dimen/_15dp"
+        android:background="@drawable/btn_round"
+        android:layout_below="@id/btn_security"
+        android:layout_marginTop="@dimen/_20dp"
+        android:text="Capital Loan"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+    <RelativeLayout
+        android:id="@+id/txt_terms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_capital"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="@dimen/_15dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Terms &amp; Condition"
+            android:textColor="#0029FF"
+            android:textSize="13sp"
+            android:textStyle="italic" />
+
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_terms"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="@dimen/_15dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Privacy Policy"
+            android:textColor="#0029FF"
+            android:textSize="13sp" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

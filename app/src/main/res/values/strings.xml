@@ -1,0 +1,171 @@
+<resources>
+    <array name="image">
+        <item>@drawable/training</item>
+        <item>@drawable/training1</item>
+        <item>@drawable/training2</item>
+        <item>@drawable/training3</item>
+        <item>@drawable/training4</item>
+        <item>@drawable/training5</item>
+        <item>@drawable/training6</item>
+        <item>@drawable/training7</item>
+        <item>@drawable/training8</item>
+    </array>
+    <string name="app_name">APIHomeMarketPlace</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="searchRumah">Click for Search</string>
+    <string name="terkini">Proyek Terkini </string>
+    <string name="see">Lihat Semua </string>
+    <string name="popular">Properti Terpopular </string>
+    <string name="marketplace">Royal Estate</string>
+    <string name="lable_name">money maintenance training</string>
+    <string name="lable_address">Kab Bogor, Cibubur</string>
+    <string name="beli">Beli</string>
+    <string name="sewa">Sewa</string>
+    <string name="rating">Rating</string>
+    <string name="price">559.000.000</string>
+    <string name="lable_rp">Rp</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="baca">Baca Selengkapnya</string>
+    <string name="Informasi">Informasi Properti</string>
+    <string name="lihat">Lihat Selengkapnya</string>
+    <string name="lable_kondisi">Baru</string>
+    <string name="luas_bangunan">Luas Bangunan</string>
+    <string name="kondisi">Kondisi Properti</string>
+    <string name="lable_luas">Luas Bangunan : 92 m2 | Luas Tanah : 112 m2</string>
+    <string name="luastanah">Luas Tanah</string>
+    <string name="lable_lantai">2</string>
+    <string name="lantai">Jumlah lantai</string>
+    <string name="lable_developer">PT Griya Chaya Pratama</string>
+    <string name="developer">Pembangun</string>
+    <string name="sertifikat">Sertifikat</string>
+    <string name="lable_sertifikat">"SHM - Sertifikat Hak Milik "</string>
+    <string name="perabotan">Dilengkapi Perabotan</string>
+    <string name="lable_perabotan">Semi Furnished</string>
+    <string name="name_address">Address</string>
+    <string name="address">Address</string>
+    <string name="lable_name_desc">Deskripsi</string>
+    <string name="login_account">Login Account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="not_a_member_get_registered_now">Not a member? Get registered now!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_with_your_social_media_account">Login with your social media account!</string>
+    <string name="text_error_message">Error Message</string>
+    <string name="lable_type">Rumah Dijual</string>
+    <string name="type">Type</string>
+    <string name="lable_fproperty">One gate system, TV Cable, Internet Indihome, Underground cable, Underground sewage system, Taman kecil, Tempat parkir kecil</string>
+    <string name="fproperty">Fasilitas Property</string>
+    <string name="hubungi_kami">Hubungi kami</string>
+    <string name="title_sewa">Sewa</string>
+    <string name="title_jual">Jual</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">John Christian</string>
+    <string name="upusername">john.cristian@gmail.com</string>
+    <string name="upemail">Email :</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title_profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="welcome_to_the_app">Welcome to the App</string>
+    <string name="input_nomor_telepon">Input Nomor Telepon</string>
+    <string name="masuk">Masuk</string>
+
+
+    <string name="authentication_hp">Authentication HP</string>
+    <string name="submit_number">Submit Number</string>
+    <string name="phone">Phone</string>
+
+    <string name="upphone">Phone :</string>
+    <string name="masuk_sebagai_pembeli">Masuk sebagai pembeli</string>
+    <string name="masuk_sebagai_penjual">Masuk sebagai penjual</string>
+
+    <string name="upload">uploading…</string>
+    <string name="wait_for_upload">Image is uploading, please wait…</string>
+    <string name="title_favorite">Favorite</string>
+
+    <string name="title_activity_debt_data_item">DebtDataItem</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="title_activity_licencing">LicencingActivity</string>
+    <string name="title_licencing">Licencing</string>
+
+
+    <string name="title_training">Training</string>
+    <string name="user">Username :</string>
+
+    <string-array name="title">
+        <item>Risk management in credit and collection activities</item>
+        <item>Strategy, processes, and management of collection resources</item>
+        <item>Designing credit and collection policy</item>
+        <item>Managing account receivable performance</item>
+        <item>Collection scorecard and analytical tools</item>
+        <item>Management guidelines for collection management</item>
+        <item>Understanding performance and collection management team</item>
+        <item>Assessing the existing performance management system and setting KPI team practice</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>123 Fake St, Seattle, WA, 98101</item>
+        <item>456 Bogus Ave, Portland, OR, 97201</item>
+        <item> 789 Fabricated Ln, Los Angeles, CA, 90001</item>
+        <item>321 Made Up Way, San Francisco, CA, 94101</item>
+        <item> 654 Test Rd, Denver, CO, 80201 </item>
+        <item>987 False Dr, Salt Lake City, UT, 84101</item>
+        <item> 246 Mock St, Houston, TX, 77001</item>
+        <item>135 Imaginary Pl, Las Vegas, NV, 89101</item>
+
+    </string-array>
+
+    <string-array name="desc">
+        <item>This refers to the process of identifying, evaluating, and mitigating the risks associated with extending credit and collecting payments. It involves developing a credit policy that establishes guidelines for credit limits, credit approvals, and collection processes.</item>
+        <item>This involves developing a strategy for collecting outstanding accounts receivable, implementing procedures and processes to streamline the collection process, and managing the resources (people and technology) needed to carry out the collection efforts.</item>
+        <item>This involves creating a policy that outlines the terms and conditions for extending credit, collection timeframes, and actions to be taken in the event of non-payment. The policy should be tailored to the specific needs of the business and its customers.</item>
+        <item>This involves monitoring the aging of accounts receivable, setting targets for the collection process, and measuring performance against those targets. It also involves identifying and addressing any issues that may impact the collection process.</item>
+        <item>This involves using scorecards and analytics to track the performance of the collection process and identify areas for improvement. It can also help in forecasting the cash flow and identifying potential risks.</item>
+        <item>This involves setting guidelines for the collection management team, including rules for communication, collection strategies, and dispute resolution.</item>
+        <item>This involves evaluating the performance of the collection management team, identifying areas for improvement, and providing training and support to help them perform their tasks more effectively.</item>
+        <item>This involves evaluating the current performance management system and setting key performance indicators (KPIs) for the collection management team. It also involves monitoring the</item>
+    </string-array>
+
+</resources>
